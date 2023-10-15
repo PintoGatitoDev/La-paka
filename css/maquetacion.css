@@ -1,0 +1,135 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.cuerpo {
+    font-family: Arial, Helvetica, sans-serif;
+    min-height: 100%;
+}
+
+.encabezado {
+    background-color: #bba231;
+    text-align: center;
+}
+
+.encabezado img {
+    height: 100px;
+}
+
+nav {
+    text-align: center;
+}
+
+nav li {
+    display: inline-block;
+    width: 20%;
+}
+
+nav a {
+    display: inline-block;
+    text-decoration: none;
+    color: #FFFFFF;
+    padding: 10px 30px;
+}
+
+.menu_desplegable {
+    display: none;
+    position: absolute;
+    padding: 0px;
+    margin: 0px;
+    background-color: #bba231;
+}
+
+.menu_desplegable li {
+    display: block;
+    padding: 0px;
+    margin: 0px;
+    width: 100%;
+}
+
+.menu-desplegable a {
+    display: inline-block;
+}
+
+nav a:hover {
+    background-color: #caaf37;
+}
+
+.navegacion li:hover .menu_desplegable {
+    display: block;
+}
+
+.pie {
+    width: 100%;
+    background-color: #bba231;
+    padding: 10px;
+    color: #FFFFFF;
+  }
+
+
+.pie .quejas,
+.pie .redes {
+    display: inline-block;
+    width: 45%;
+}
+
+.pie .quejas h2 {
+    font-size: 20px;
+}
+
+.quejas form {
+    width: 100%;
+    text-align: center;
+}
+
+.quejas form label,
+.quejas form input[type="text"],
+.quejas form textarea {
+    display: inline-block;
+    width: 90%;
+    margin: 5px auto;
+}
+
+.quejas form input[type="text"],
+.quejas form textarea {
+    border: 0px;
+}
+
+.quejas form label {
+    text-align: left;
+}
+
+.quejas form textarea {
+    resize: none;
+}
+
+.quejas form input[type="submit"] {
+    margin: 10px;
+    padding: 10px;
+    border: 0px;
+    border-radius: 10px;
+    background-color: #474747;
+    color: #FFFFFF;
+}
+
+.quejas form input[type="submit"]:hover {
+    background-color: #adadad;
+}
+
+.pie .redes {
+    text-align: center;
+}
+
+.redes {
+    vertical-align: top;
+}
+
+.redes img {
+    height: 50px;
+}
+
+.principal
+{
+    min-height: 300px;
+}

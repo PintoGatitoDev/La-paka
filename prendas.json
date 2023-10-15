@@ -1,0 +1,202 @@
+[
+    {
+      "nombre": "Moño Negro",
+      "precio": 100,
+      "marca": "Zara",
+      "temporada": "Todo el año",
+      "descripcion": "Moño negro adecuado para smokes",
+      "url_img": "img/prendas/1.jpg",
+      "talla": "M",
+      "valoracion": 5,
+      "composicion": "100% algodón"
+    },
+    {
+      "nombre": "Pantalón vaquero",
+      "precio": 50,
+      "marca": "Levi's",
+      "temporada": "Todo el año",
+      "descripcion": "Pantalón vaquero de corte recto. Talla 32.",
+      "url_img": "img/prendas/2.jpg",
+      "talla": "32",
+      "valoracion": 4,
+      "composicion": "98% algodón, 2% elastano"
+    },
+    {
+      "nombre": "Camisa de manga larga",
+      "precio": 70,
+      "marca": "H&M",
+      "temporada": "Otoño/invierno",
+      "descripcion": "Camisa de manga larga de color azul marino. Talla L.",
+      "url_img": "img/prendas/3.jpg",
+      "talla": "L",
+      "valoracion": 3,
+      "composicion": "100% algodón"
+    },
+    {
+      "nombre": "Chaqueta de cuero",
+      "precio": 200,
+      "marca": "Dolce & Gabbana",
+      "temporada": "Otoño/invierno",
+      "descripcion": "Chaqueta de cuero negra con cremallera. Talla S.",
+      "url_img": "img/prendas/4.jpg",
+      "talla": "S",
+      "valoracion": 5,
+      "composicion": "100% cuero"
+    },
+    {
+      "nombre": "Zapatos de tacón",
+      "precio": 150,
+      "marca": "Manolo Blahnik",
+      "temporada": "Todo el año",
+      "descripcion": "Zapatos de tacón de color negro con punta fina. Talla 38.",
+      "url_img": "img/prendas/5.jpg",
+      "talla": "38",
+      "valoracion": 4,
+      "composicion": "Piel de becerro"
+    },
+    {
+      "nombre": "Sandalias de playa",
+      "precio": 25,
+      "marca": "H&M",
+      "temporada": "Verano",
+      "descripcion": "Sandalias de playa de color blanco con tiras cruzadas. Talla 37.",
+      "url_img": "img/prendas/6.jpg",
+      "talla": "37",
+      "valoracion": 5,
+      "composicion": "100% poliester"
+    },
+    {
+        "nombre": "Moño Negro",
+        "precio": 100,
+        "marca": "Zara",
+        "temporada": "Todo el año",
+        "descripcion": "Moño negro adecuado para smokes",
+        "url_img": "img/prendas/1.jpg",
+        "talla": "M",
+        "valoracion": 5,
+        "composicion": "100% algodón"
+      },
+      {
+        "nombre": "Pantalón vaquero",
+        "precio": 50,
+        "marca": "Levi's",
+        "temporada": "Todo el año",
+        "descripcion": "Pantalón vaquero de corte recto. Talla 32.",
+        "url_img": "img/prendas/2.jpg",
+        "talla": "32",
+        "valoracion": 4,
+        "composicion": "98% algodón, 2% elastano"
+      },
+      {
+        "nombre": "Camisa de manga larga",
+        "precio": 70,
+        "marca": "H&M",
+        "temporada": "Otoño/invierno",
+        "descripcion": "Camisa de manga larga de color azul marino. Talla L.",
+        "url_img": "img/prendas/3.jpg",
+        "talla": "L",
+        "valoracion": 3,
+        "composicion": "100% algodón"
+      },
+      {
+        "nombre": "Chaqueta de cuero",
+        "precio": 200,
+        "marca": "Dolce & Gabbana",
+        "temporada": "Otoño/invierno",
+        "descripcion": "Chaqueta de cuero negra con cremallera. Talla S.",
+        "url_img": "img/prendas/4.jpg",
+        "talla": "S",
+        "valoracion": 5,
+        "composicion": "100% cuero"
+      },
+      {
+        "nombre": "Zapatos de tacón",
+        "precio": 150,
+        "marca": "Manolo Blahnik",
+        "temporada": "Todo el año",
+        "descripcion": "Zapatos de tacón de color negro con punta fina. Talla 38.",
+        "url_img": "img/prendas/5.jpg",
+        "talla": "38",
+        "valoracion": 4,
+        "composicion": "Piel de becerro"
+      },
+      {
+        "nombre": "Sandalias de playa",
+        "precio": 25,
+        "marca": "H&M",
+        "temporada": "Verano",
+        "descripcion": "Sandalias de playa de color blanco con tiras cruzadas. Talla 37.",
+        "url_img": "img/prendas/6.jpg",
+        "talla": "37",
+        "valoracion": 5,
+        "composicion": "100% poliester"
+      },
+      {
+        "nombre": "Moño Negro",
+        "precio": 100,
+        "marca": "Zara",
+        "temporada": "Todo el año",
+        "descripcion": "Moño negro adecuado para smokes",
+        "url_img": "img/prendas/1.jpg",
+        "talla": "M",
+        "valoracion": 5,
+        "composicion": "100% algodón"
+      },
+      {
+        "nombre": "Pantalón vaquero",
+        "precio": 50,
+        "marca": "Levi's",
+        "temporada": "Todo el año",
+        "descripcion": "Pantalón vaquero de corte recto. Talla 32.",
+        "url_img": "img/prendas/2.jpg",
+        "talla": "32",
+        "valoracion": 4,
+        "composicion": "98% algodón, 2% elastano"
+      },
+      {
+        "nombre": "Camisa de manga larga",
+        "precio": 70,
+        "marca": "H&M",
+        "temporada": "Otoño/invierno",
+        "descripcion": "Camisa de manga larga de color azul marino. Talla L.",
+        "url_img": "img/prendas/3.jpg",
+        "talla": "L",
+        "valoracion": 3,
+        "composicion": "100% algodón"
+      },
+      {
+        "nombre": "Chaqueta de cuero",
+        "precio": 200,
+        "marca": "Dolce & Gabbana",
+        "temporada": "Otoño/invierno",
+        "descripcion": "Chaqueta de cuero negra con cremallera. Talla S.",
+        "url_img": "img/prendas/4.jpg",
+        "talla": "S",
+        "valoracion": 5,
+        "composicion": "100% cuero"
+      },
+      {
+        "nombre": "Zapatos de tacón",
+        "precio": 150,
+        "marca": "Manolo Blahnik",
+        "temporada": "Todo el año",
+        "descripcion": "Zapatos de tacón de color negro con punta fina. Talla 38.",
+        "url_img": "img/prendas/5.jpg",
+        "talla": "38",
+        "valoracion": 4,
+        "composicion": "Piel de becerro"
+      },
+      {
+        "nombre": "Sandalias de playa",
+        "precio": 25,
+        "marca": "H&M",
+        "temporada": "Verano",
+        "descripcion": "Sandalias de playa de color blanco con tiras cruzadas. Talla 37.",
+        "url_img": "img/prendas/6.jpg",
+        "talla": "37",
+        "valoracion": 5,
+        "composicion": "100% poliester"
+      }
+    
+  ]
+  

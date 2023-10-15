@@ -1,0 +1,63 @@
+.seccion
+{
+    padding: 15px;
+    text-align: center;
+}
+
+.carta
+{
+    display: inline-block;
+    width: 300px;
+    margin: 5px;
+    padding: 5px;
+    border: 1px solid #d8d7d7;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.carta img
+{
+    display: inline-block;
+    width: 100%;
+    border-radius: 5px;
+}
+
+.carta a
+{
+    text-decoration: none;
+    color: rgb(77, 65, 27);
+}
+
+#perfil h2
+{
+    display: block;
+    margin: 20px;
+}
+
+
+.informacionperfil,.fotoperfil{
+    display: inline-block;
+    width: 45%;
+}
+
+.fotoperfil img
+{
+    width: 90%;
+}
+
+.informacionperfil
+{
+    vertical-align: top;
+}
+
+.informacionperfil table
+{
+    margin: 10px auto;
+}
+
+.informacionperfil table td
+{
+    height: 50px;
+    width: 200px;
+    text-align: left;
+}
