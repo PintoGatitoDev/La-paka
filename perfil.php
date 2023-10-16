@@ -9,23 +9,23 @@
             <table id="perfil">
                 <tbody>
                     <tr>
-                        <td>Nombre: </td>
+                        <td><b>Nombre:</b></td>
                         <td>Pepe</td>
                     </tr>
                     <tr>
-                        <td>Apellido(s): </td>
+                        <td><b>Apellido(s):</b></td>
                         <td>Toño</td>
                     </tr>
                     <tr>
-                        <td>Edad: </td>
+                        <td><b>Edad:</b></td>
                         <td>15</td>
                     </tr>
                     <tr>
-                        <td>Email: </td>
+                        <td><b>Email:</b></td>
                         <td>pepe_sexy@gmail.com</td>
                     </tr>
                     <tr>
-                        <td>Telefono: </td>
+                        <td><b>Telefono:</b></td>
                         <td>55 55555555</td>
                     </tr>
                 </tbody>

@@ -2,7 +2,7 @@
 <section class="seccion">
     <section id="metodos">
         <h2>Mis Metodos de pago</h2>
-        <table>
+        <table class="tabla">
             <thead>
                 <tr>
                     <th>Número de tarjeta</th>

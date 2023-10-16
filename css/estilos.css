@@ -61,3 +61,81 @@
     width: 200px;
     text-align: left;
 }
+
+#metodos
+{
+    text-align: center;
+}
+
+.tabla
+{
+    display: inline-block;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.tabla thead
+{
+    background-color: #d8af29;
+}
+
+.tabla thead th
+{
+    padding: 10px;
+}
+
+.tabla tbody td
+{
+    padding: 10px;
+}
+
+.imagen_producto, .datos_producto
+{
+    display: inline-block;
+}
+
+.imagen_producto
+{
+    width: 70%;
+    border-right: 1px solid #d8d7d7;
+    padding-right: 5px;
+}
+
+.imagen_producto img
+{
+    width: 100%;
+}
+.datos_producto
+{
+    width: 25%;
+    vertical-align: top;
+}
+
+#datosProducto
+{
+    display: inline-block;
+    width: 95%;
+    color:#505050;
+    margin-top: 30px;
+}
+
+#datosProducto td
+{
+    width: 50%;
+    text-align: left;
+    padding-bottom: 30px;
+}
+
+.boton_gris
+{
+    padding: 15px 25px;
+    background-color: #9c9c9c;
+    text-decoration: none;
+    color: #FFFFFF;
+    border-radius: 5px;
+}
+
+.boton_gris:hover
+{
+    background-color: #b9b9b9;
+}

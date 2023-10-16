@@ -8,7 +8,7 @@
         $i = 0;
         foreach ($productos as $producto) { ?>
             <div class="carta">
-                <a href="prenda?id=<?php echo $i; ?>">
+                <a href="prenda.php?id=<?php echo $i; ?>">
                     <img src="<?php echo $producto["url_img"]; ?>" alt="">
                     <p>
                         <?php echo $producto['nombre']; ?>

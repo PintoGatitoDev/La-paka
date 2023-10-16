@@ -8,7 +8,8 @@
       "url_img": "img/prendas/1.jpg",
       "talla": "M",
       "valoracion": 5,
-      "composicion": "100% algodón"
+      "composicion": "100% algodón",
+      "existencias" : 5
     },
     {
       "nombre": "Pantalón vaquero",
@@ -19,7 +20,8 @@
       "url_img": "img/prendas/2.jpg",
       "talla": "32",
       "valoracion": 4,
-      "composicion": "98% algodón, 2% elastano"
+      "composicion": "98% algodón, 2% elastano",
+      "existencias" : 5
     },
     {
       "nombre": "Camisa de manga larga",
@@ -30,7 +32,8 @@
       "url_img": "img/prendas/3.jpg",
       "talla": "L",
       "valoracion": 3,
-      "composicion": "100% algodón"
+      "composicion": "100% algodón",
+      "existencias" : 5
     },
     {
       "nombre": "Chaqueta de cuero",
@@ -41,7 +44,8 @@
       "url_img": "img/prendas/4.jpg",
       "talla": "S",
       "valoracion": 5,
-      "composicion": "100% cuero"
+      "composicion": "100% cuero",
+      "existencias" : 5
     },
     {
       "nombre": "Zapatos de tacón",
@@ -52,7 +56,8 @@
       "url_img": "img/prendas/5.jpg",
       "talla": "38",
       "valoracion": 4,
-      "composicion": "Piel de becerro"
+      "composicion": "Piel de becerro",
+      "existencias" : 5
     },
     {
       "nombre": "Sandalias de playa",
@@ -63,7 +68,8 @@
       "url_img": "img/prendas/6.jpg",
       "talla": "37",
       "valoracion": 5,
-      "composicion": "100% poliester"
+      "composicion": "100% poliester",
+      "existencias" : 5
     },
     {
         "nombre": "Moño Negro",
@@ -74,7 +80,8 @@
         "url_img": "img/prendas/1.jpg",
         "talla": "M",
         "valoracion": 5,
-        "composicion": "100% algodón"
+        "composicion": "100% algodón",
+        "existencias" : 5
       },
       {
         "nombre": "Pantalón vaquero",
@@ -85,7 +92,8 @@
         "url_img": "img/prendas/2.jpg",
         "talla": "32",
         "valoracion": 4,
-        "composicion": "98% algodón, 2% elastano"
+        "composicion": "98% algodón, 2% elastano",
+        "existencias" : 5
       },
       {
         "nombre": "Camisa de manga larga",
@@ -96,7 +104,8 @@
         "url_img": "img/prendas/3.jpg",
         "talla": "L",
         "valoracion": 3,
-        "composicion": "100% algodón"
+        "composicion": "100% algodón",
+        "existencias" : 5
       },
       {
         "nombre": "Chaqueta de cuero",
@@ -107,7 +116,8 @@
         "url_img": "img/prendas/4.jpg",
         "talla": "S",
         "valoracion": 5,
-        "composicion": "100% cuero"
+        "composicion": "100% cuero",
+        "existencias" : 5
       },
       {
         "nombre": "Zapatos de tacón",
@@ -118,7 +128,8 @@
         "url_img": "img/prendas/5.jpg",
         "talla": "38",
         "valoracion": 4,
-        "composicion": "Piel de becerro"
+        "composicion": "Piel de becerro",
+        "existencias" : 5
       },
       {
         "nombre": "Sandalias de playa",
@@ -129,7 +140,8 @@
         "url_img": "img/prendas/6.jpg",
         "talla": "37",
         "valoracion": 5,
-        "composicion": "100% poliester"
+        "composicion": "100% poliester",
+        "existencias" : 5
       },
       {
         "nombre": "Moño Negro",
@@ -140,7 +152,8 @@
         "url_img": "img/prendas/1.jpg",
         "talla": "M",
         "valoracion": 5,
-        "composicion": "100% algodón"
+        "composicion": "100% algodón",
+        "existencias" : 5
       },
       {
         "nombre": "Pantalón vaquero",
@@ -151,7 +164,8 @@
         "url_img": "img/prendas/2.jpg",
         "talla": "32",
         "valoracion": 4,
-        "composicion": "98% algodón, 2% elastano"
+        "composicion": "98% algodón, 2% elastano",
+        "existencias" : 5
       },
       {
         "nombre": "Camisa de manga larga",
@@ -162,7 +176,8 @@
         "url_img": "img/prendas/3.jpg",
         "talla": "L",
         "valoracion": 3,
-        "composicion": "100% algodón"
+        "composicion": "100% algodón",
+        "existencias" : 5
       },
       {
         "nombre": "Chaqueta de cuero",
@@ -173,7 +188,8 @@
         "url_img": "img/prendas/4.jpg",
         "talla": "S",
         "valoracion": 5,
-        "composicion": "100% cuero"
+        "composicion": "100% cuero",
+        "existencias" : 5
       },
       {
         "nombre": "Zapatos de tacón",
@@ -184,7 +200,8 @@
         "url_img": "img/prendas/5.jpg",
         "talla": "38",
         "valoracion": 4,
-        "composicion": "Piel de becerro"
+        "composicion": "Piel de becerro",
+        "existencias" : 5
       },
       {
         "nombre": "Sandalias de playa",
@@ -195,7 +212,8 @@
         "url_img": "img/prendas/6.jpg",
         "talla": "37",
         "valoracion": 5,
-        "composicion": "100% poliester"
+        "composicion": "100% poliester",
+        "existencias" : 5
       }
     
   ]
